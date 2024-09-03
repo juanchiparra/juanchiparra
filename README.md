@@ -2,8 +2,9 @@
 
 Data analyst passionate about using data visualization to tell stories
 - Creating interactive visualizations with [d3](https://d3js.org/) and [Svelte](https://svelte.dev/)🔥
-- Taking notes with [Obisidian](https://obsidian.md/)📝
 - Building my digital garden with [Astro](https://astro.build/)🌱
+- Taking notes with [Obisidian](https://obsidian.md/)📝
+- Building something called [Datypical](https://github.com/datypical)❤️
 
 I'm currently Automations Team Lead at DANAConnect🤖.
 
