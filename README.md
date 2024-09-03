@@ -6,6 +6,6 @@ Data analyst passionate about using data visualization to tell stories
 - Taking notes with [Obisidian](https://obsidian.md/)📝
 - Building something called [Datypical](https://github.com/datypical)❤️
 
-I'm currently Automations Team Lead at DANAConnect🤖.
+I'm currently Automations Team Lead at [DANAConnect](https://www.danaconnect.com/)🤖.
 
 ✉️ How to reach me: juanchiparra@gmail.com
