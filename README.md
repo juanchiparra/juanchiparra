@@ -9,3 +9,5 @@ Data analyst passionate about using data visualization to tell stories
 I'm currently Automations Team Lead at [DANAConnect](https://www.danaconnect.com/)🤖.
 
 ✉️ How to reach me: juanchiparra@gmail.com
+
+![data-viz](data-viz.png)
